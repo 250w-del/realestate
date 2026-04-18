@@ -98,6 +98,8 @@ real-estate-platform/
 
 ## 🚀 Quick Start
 
+> **👥 Collaborator?** See [COLLABORATOR_SETUP.md](./COLLABORATOR_SETUP.md) for team setup!
+> 
 > **🎯 Using Supabase?** See [README_SUPABASE.md](./README_SUPABASE.md) for a 3-step quick start!
 
 ### Prerequisites
